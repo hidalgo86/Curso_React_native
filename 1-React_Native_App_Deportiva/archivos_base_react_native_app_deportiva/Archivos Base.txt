@@ -1,0 +1,10 @@
+# Archivos Base
+Los archivos base se encuentran disponibles en en Github en la ruta https://github.com/yacafx/in-react-native-mi-liga
+
+En este repositorio los  archivos se encuentran vividos en branches o ramas donde podrás ubicar fácilmente el correspondiente a cada capítulo.
+
+Podrás usar el repositorio clonándolo con el siguiente comando:
+
+git clone git@github.com:yacafx/in-react-native-mi-liga.git
+
+O descargando la versión empaquetada en un archivo zip en la ruta https://github.com/yacafx/in-react-native-mi-liga/archive/master.zip
